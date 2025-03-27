@@ -1,0 +1,38 @@
+{
+    "appTitle": "Tourism App",
+    "welcomeMessage": "Welcome to our Tourism App!",
+  
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+  
+    "home": "Home",
+    "searchHint": "Search...",
+  
+    "profile": "Profile",
+    "editProfile": "Edit Profile",
+  
+    "notifications": "Notifications",
+    "notificationDetails": "Notification Details",
+  
+    "attractions": "Attractions",
+    "attractionDetails": "Attraction Details",
+    "categoryList": "Categories",
+    "categoryAttractions": "Category Attractions",
+  
+    "feedback": "Feedback",
+    "favorites": "Favorites",
+  
+    "mapScreen": "Map",
+    "currencyConvert": "Currency Convert",
+  
+    "settings": "Settings",
+    "settings.theme": "Theme",
+    "settings.language": "Language",
+    "settings.light": "Light",
+    "settings.dark": "Dark",
+  
+    "priceSar": "Price (SAR)",
+    "priceUsd": "Price (USD)"
+  }
+  

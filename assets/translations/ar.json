@@ -1,0 +1,38 @@
+{
+    "appTitle": "تطبيق السياحة",
+    "welcomeMessage": "مرحبًا بك في تطبيق السياحة!",
+  
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "register": "إنشاء حساب",
+  
+    "home": "الرئيسية",
+    "searchHint": "ابحث...",
+  
+    "profile": "الملف الشخصي",
+    "editProfile": "تعديل الملف الشخصي",
+  
+    "notifications": "الإشعارات",
+    "notificationDetails": "تفاصيل الإشعار",
+  
+    "attractions": "المعالم السياحية",
+    "attractionDetails": "تفاصيل المعلم",
+    "categoryList": "التصنيفات",
+    "categoryAttractions": "معالم التصنيف",
+  
+    "feedback": "التقييمات",
+    "favorites": "المفضلة",
+  
+    "mapScreen": "الخريطة",
+    "currencyConvert": "تحويل العملة",
+  
+    "settings": "الإعدادات",
+    "settings.theme": "الثيم",
+    "settings.language": "اللغة",
+    "settings.light": "فاتح",
+    "settings.dark": "داكن",
+  
+    "priceSar": "السعر (ريال)",
+    "priceUsd": "السعر (دولار)"
+  }
+  
